@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="https://github.com/vanishgg/vanishraider">
-    <img src="https://i.ibb.co/S7RJT3Fq/vanishlogo.png" alt="Logo" width="200" height="200">
+  <a href="https://github.com/xdvirt/vanishraider">
+    <img src="https://i.ibb.co/tPQnQLYs/logo.png" alt="Logo" width="200" height="200">
   </a>
 </p>
 
 <h3 align="center">Vanish Raider</h3>
-<h3 align="center">The new and improved vanish raider</h3>
+<h3 align="center">The new vanish raider</h3>
 
 <p align="center">
   <a href="https://discord.gg/invite/NzsHDSuWx7" target="_blank">
